@@ -1,0 +1,14 @@
+{
+  /* Base configuration. Do not edit this field. */
+  "extends": "./temp/tsconfig.cocos.json",
+  /* Add your custom configuration here. */
+  "compilerOptions": {
+    "strict": false,
+    "allowJs": true, // Позволяет использовать JavaScript файлы
+    "checkJs": false // Не проверяет JavaScript файлы на ошибки
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.js" // Включить JavaScript файлы
+  ]
+}

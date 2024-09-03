@@ -1,0 +1,10 @@
+{
+  "name": "sobes",
+  "uuid": "9a73d1c1-bea6-4a99-bd66-4a47790bb804",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.2"
+  }
+}
